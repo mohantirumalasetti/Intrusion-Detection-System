@@ -36,7 +36,7 @@ git clone https://github.com/mohantirumalasetti/Intrusion-Detection-System.git
 2. Navigate to the project directory:
 
 ```sh
-cd IDS-analysis
+cd Intrusion-Detection-System
 ```
 
 3. Open the Jupyter notebook:
