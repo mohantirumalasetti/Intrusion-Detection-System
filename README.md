@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/IDS-analysis.git
+git clone https://github.com/mohantirumalasetti/Intrusion-Detection-System.git
 ```
 
 2. Navigate to the project directory:
