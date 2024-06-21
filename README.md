@@ -1,4 +1,4 @@
-# IDS Analysis Notebook
+# Intrusion Detection System(IDS) Notebook
 
 This repository contains a Jupyter notebook for analyzing and interpreting Intrusion Detection System (IDS) data. The notebook provides a comprehensive analysis using various data processing and visualization techniques.
 
