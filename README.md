@@ -59,13 +59,6 @@ The notebook includes the following sections:
 6. **Model Evaluation**: Evaluation of model performance using various metrics.
 7. **Conclusion**: Summary of findings and potential future work.
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
